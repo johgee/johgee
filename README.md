@@ -12,4 +12,6 @@
   🧁 when i'm not coding, i'm creating contents using DaVinci Resolve. (i have a very very small youtube channel.)
   
   🍵 born & raised in Korea 🇰🇷 grew up in Chicago 🇺🇸 currently based in NYC 
-
+  
+## ***currently learning...***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johgee&layout=compact)](https://github.com/johgee/github-readme-stats)
